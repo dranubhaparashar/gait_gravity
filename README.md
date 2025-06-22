@@ -100,11 +100,4 @@ print(f"Extracted {cycles.shape[0]} gait cycles,")
 print(f"Each of shape {cycles.shape[1:]} -> (samples, features)")
 ```
 
-## Contributors
-
-- Your Name ([you@example.com](mailto\:you@example.com))
-
----
-
-Feel free to open issues or submit pull requests for improvements or bug fixes. Happy gait‑cycle analysis!
 
